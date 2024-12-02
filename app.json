@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "simulador-fundos-imobiliarios",
-    "slug": "simulador-fundos-imobiliarios",
+    "name": "calculadora-fii",
+    "slug": "calculadora-fii",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
